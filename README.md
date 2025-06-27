@@ -48,21 +48,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 </td>
 </tr>
@@ -84,5 +71,5 @@
   
   **⭐ From [ISHIDA-Masaki](https://github.com/ISHIDA-Masaki) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *""Headlight, taillight, the journey continues""*
 </div>
